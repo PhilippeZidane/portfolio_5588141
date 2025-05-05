@@ -10,7 +10,7 @@ Flutter 3.19.3 • Dart 3.3.1
 
 Projekt klonen:
 
-git clone https://github.com/fotsophilippe/portfolio_5546174.git
+git clone https://github.com/PhilippeZidanee/portfolio_5546174.git
 cd portfolio_5546174
 
 App starten (z. B. im Chrome-Browser oder Emulator):
