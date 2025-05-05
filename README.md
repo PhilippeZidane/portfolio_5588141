@@ -13,7 +13,7 @@ Projekt klonen:
 git clone https://github.com/PhilippeZidanee/portfolio_5546174.git
 cd portfolio_5588141
 
-App starten (z. B. im Chrome-Browser oder Emulator):
+App starten (zB. im Chrome-Browser oder Emulator):
 flutter run -d chrome
 
 ## Git-Branching-Strategie
