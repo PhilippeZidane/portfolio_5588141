@@ -1,24 +1,10 @@
 import 'package:flutter/material.dart';
 
-<<<<<<< HEAD
+
 void main() {
   runApp(HomePage());
 }
 
-class HomePage extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: Scaffold(
-        tittle : Text('Portfolio')
-      ),
-      body: Center(
-        child: Text('Willkommen im meinem Portfolio'),
-      ),
-    );
-  }
-}
-=======
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
@@ -52,4 +38,4 @@ class HomePage extends StatelessWidget {
     );
   }
 }*/
->>>>>>> Startseite
+
